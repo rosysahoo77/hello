@@ -1,0 +1,20 @@
+{
+  "createcert":
+          {
+            "ECDSA parameter filename":"/etc/ssl/dsaparams/ecdsaparam0.pem",
+            "ECDSA Certificate File Name":"/etc/ssl/certs/cpcommcert0.pem",
+            "ECDSA Private Key File Name":"/etc/ssl/private/cpcommkey0.pem",
+            "Password":"unisys",
+            "Confirm Password":"unisys",
+            "Certificate valid for":"365",
+            "Common Name":"USTR-ERL2-4203.na.uis.unisys.com",
+            "Organization Name":"Unisys",
+            "Organization Unit Name":"Networking",
+            "Locality":"Eagan",
+            "State":"Minnesota",
+            "Country":"US",
+            "E-mail":" ",
+            "ECDSA CSR File Name":"/etc/ssl/csrs/hostcsr.pem"
+
+          }
+}
